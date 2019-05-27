@@ -1,0 +1,21 @@
+body {
+	padding:10px;
+	margin: 10px;
+	background-color: #ccc;
+}
+
+.container {
+	width: 600px;
+	height: 150px;
+	background-color: red;
+	padding: 30px;
+	border:5px solid blue;
+	margin: 30px auto;
+}
+
+.container p {
+	margin: 0px;
+	padding:0px;
+	
+
+}
