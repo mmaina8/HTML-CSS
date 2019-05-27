@@ -1,0 +1,38 @@
+body {
+	background-color: #ccc;
+	background-size: cover;
+	color: #222;
+}
+
+
+.container {
+	width: 900px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 50px;
+
+}
+
+.container h1 {
+	font-family: 'Macondo Swash Caps', cursive;
+}
+
+.container p {
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.container .pinterest i, .container .twitter i {
+	color: white;
+	padding: 20px;
+	border-radius: 50px;
+	
+}
+
+.container .pinterest i {
+	background-color: #C92228;
+}
+
+.container .twitter i {
+	background-color: #38A1F3;
+}
