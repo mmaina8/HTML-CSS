@@ -1,0 +1,18 @@
+body {
+	background-color: #ccc;
+}
+
+.cont {
+	width: 600px;
+	margin: 0 auto;
+}
+
+.media {
+	margin: 0 auto;
+	width: 600px;
+	min-height: 300px;
+}
+
+.media.map {
+	width: 100%;
+}
