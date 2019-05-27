@@ -1,0 +1,20 @@
+body {
+	background-image: url("../img/fpig.png"),url("../img/fpig.png"),url(../img/lscape.jpg);
+	background-repeat: no-repeat;
+	background-position: left 50%, right 50%, center;
+	background-attachment: fixed;  
+	background-size: 20%, 20%, cover;
+}
+
+.tab {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.tab img{
+	width: 200px;
+	height: 200px;
+}
