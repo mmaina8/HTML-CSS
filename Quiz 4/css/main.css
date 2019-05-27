@@ -1,0 +1,97 @@
+body {
+	background-color: #e5e5e5;
+	font-family: arial;
+}
+
+header {
+	background-color: #dd9f33;
+	height: 50px;
+}
+
+.head {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.head img {
+	margin: 11px;
+	float: left;
+}
+
+.head ul {
+	list-style: none; 
+	float: right;
+}
+
+.head ul li {
+	float: left;
+	list-style: none;
+}
+
+.head ul li a {
+	padding-left: 20px;
+	color: #000;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 13px;
+	text-decoration: none;
+} 
+
+.container{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 60px;
+	min-height: 300px;
+	overflow: auto;
+}
+
+.container img {
+	float: left;
+	padding-right: 50px;
+	padding-bottom: 40px;
+	width: 480px;
+	height: 210px;
+}
+
+.container h1 {
+	margin: 0 0 14px 0;
+	padding: 0;
+}
+
+.container h4 {
+	margin: 0 0 20px 0;
+	padding: 0;
+	color: #505050;
+}
+
+.container p {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.container .cakes .joy{
+	width: 332px;
+	height: 267px;
+}
+
+.container .cake1 {
+	padding-right: 40px;
+}
+
+.container .cake2 {
+	padding-right: 40px;
+}
+
+.container .cakes {
+	width: 332px;
+	float: left;
+}
+
+footer{
+	font-size: 12px;
+	text-align: center;
+	color: #444;
+	padding-top: 20px;
+	padding-bottom: 100px; 
+}
